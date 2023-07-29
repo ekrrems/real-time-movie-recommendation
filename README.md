@@ -24,7 +24,7 @@ git clone https://github.com/ekrrems/real-time-movie-recommendation.git
 cd real-time-movie-recommendation
 ```
 
-##Contributing
+## Contributing
 We welcome contributions from the community. To contribute to the project, follow these steps:
 
 1. Fork the repository.
@@ -39,5 +39,5 @@ We welcome contributions from the community. To contribute to the project, follo
 
 We will review your pull request and merge it if everything looks good.
 
-##License
+## License
 This project is licensed under the MIT License.
